@@ -1,0 +1,20 @@
+{
+  "name": "bytebank",
+  "version": "1.0.0",
+  "description": "Projeto curso alura",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucaslomba/JavaScript-Orienta-o-Objetos.git"
+  },
+  "author": "Lucas Lomba",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/lucaslomba/JavaScript-Orienta-o-Objetos/issues"
+  },
+  "homepage": "https://github.com/lucaslomba/JavaScript-Orienta-o-Objetos#readme"
+}
